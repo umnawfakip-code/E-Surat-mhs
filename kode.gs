@@ -1,6 +1,6 @@
 const SPREADSHEET_ID = '1mlVSLb1BS_YDkynqHIWrfXnaGk5zOoiom1KkZlS-jeM';
 const OUTPUT_FOLDER_ID = '1Qh5hmlDDR_lvGJYT04h9oQ3kxjTy7-7X';
-const ADMIN_PIN = '460352'; // PIN LOGIN ADMIN
+const ADMIN_PIN = 'adminfkip'; // PIN LOGIN ADMIN
 
 const TEMPLATE_IDS = {
   'AKTIF KULIAH': '1c9XCdUspIi6CTPDckIFGpyqoqlBOly-kwIUD0XOWovo',
